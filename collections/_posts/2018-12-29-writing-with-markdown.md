@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Writing With Markdown"
-date: 2018-12-29T10:26:40+10:00
-authors: ["Sage Kirk", "Mike Vance"]
-categories: ["Development", "Javascript", "Web Design"]
+title: "Montaña Redonda"
+date: 2024-04-28T10:26:40+10:00
+authors: ["Jahel Mojica", "Gustavo Tejeda"]
+categories: ["Casa Tipica", "FourWheels", "Playa el Limon", "El Seibo"]
 tags: ["Writing"]
 description: Learn how to use Markdown to write blog posts. Understand front-matter and how it is used in templates.
-thumbnail: "assets/images/unsplash-CTivHyiTbFw-640x360.jpeg"
+thumbnail: "https://photos.app.goo.gl/9bPAcUTibrgA9yKH7"
 image: "https://source.unsplash.com/CTivHyiTbFw/1600x900"
 ---
 
